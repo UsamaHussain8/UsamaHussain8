@@ -8,12 +8,19 @@ I'm a software developer with an eye on working as an ML Engineer. I'm passionat
 - Passionate about ML Engineering
 - Looking to contribute in open-source projects
 
+---
+<div align="center">
+  
 ## Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-hussain-a3855a166/)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamahussain00@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@usamahussain00)
+</div>
 
+---
+<div align="center">
+  
 ## Tools and Technologies
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> &nbsp;
@@ -39,6 +46,14 @@ I'm a software developer with an eye on working as an ML Engineer. I'm passionat
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> &nbsp;
 </p>    
+</div>
+
+---
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UsamaHussain8&theme=highcontrast)](https://git.io/streak-stats)
+
+</div>
 <!--
 **UsamaHussain8/UsamaHussain8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
