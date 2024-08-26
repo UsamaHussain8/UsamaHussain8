@@ -6,7 +6,7 @@ I'm a software developer with an eye on working as an ML Engineer. I'm passionat
 - Active on LeetCode  
 - Bachelors in Computer and Information Sciences (18-22) from [Pakistan Institute of Engineering and Applied Sciences](https://www.pieas.edu.pk/)
 - Passionate about ML Engineering
-- Looking to contribute in open-source projects
+- Open source aspirant
 
 ---
 <div align="center">
