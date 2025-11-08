@@ -3,10 +3,9 @@
 I'm a software developer with an eye on working as an ML Engineer. I'm passionate about using tech to solve real world problems.
 
 - Working as a Software Developer
-- Active on LeetCode  
 - Bachelors in Computer and Information Sciences (18-22) from [Pakistan Institute of Engineering and Applied Sciences](https://www.pieas.edu.pk/)
-- Passionate about ML Engineering
-- Open source aspirant
+- Passionate about Software Development and AI Engineering
+
 
 ---
 <div align="center">
