@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Usama Hussain
 
-I'm a software developer with an eye on working as an ML Engineer. I'm passionate about using tech to solve real world problems.
+I'm a software developer with an eye on developing performant, scalable, robust software systems. I'm passionate about using tech to solve real world problems.
 
 - Working as a Software Developer
 - Bachelors in Computer and Information Sciences (18-22) from [Pakistan Institute of Engineering and Applied Sciences](https://www.pieas.edu.pk/)
